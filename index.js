@@ -1,3 +1,4 @@
+
 console.log("Hello world!");
 
 function sum(a, b) {
@@ -5,3 +6,5 @@ function sum(a, b) {
 }
 
 console.log(sum(4,2));
+
+module.export=sum;
